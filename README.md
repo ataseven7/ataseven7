@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ataseven7
+- 👀 I’m interested in C# Programming Language
+- 🌱 I’m currently learning C#, Python, Java
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ibrahimtsvn08@gmail.com
